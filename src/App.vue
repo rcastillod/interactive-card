@@ -17,7 +17,8 @@
   --primary-color: hsl(278, 68%, 11%);
   --primary-color-tint: hsl(278, 34%, 20%);
   --grey-color: hsl(270, 3%, 77%);
-  --white-color: hsl(100, 100, 100);
+  --dark-grey-color: hsl(0, 0%, 18%);
+  --white-color: hsl(0, 0%, 100%);
   --black-color: hsl(0, 0, 0);
 
   /* Font Familiy */
